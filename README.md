@@ -5,7 +5,7 @@ So, you wanna build the next killer social app. Got the perfect pitch, mad dev s
 
 Don't worry. You don't need a designer. Just like [@shesho](http://twitter.com/shesho) [wrote about a year ago](https://uxmag.com/articles/why-web-design-is-dead), there are so many good quality design resources available today, you can easily start building right away.
 
-I've listed here a ton of free I've found over time to help me avoid spending time designing. Just ready-to-use, so no AI, PSD files – PNG and SVG are fine. I think this his list may be handy for you if you
+I've listed here a ton of free stuff I've found over time to help me avoid spending time designing. Just ready-to-use, so no AI, PSD files – PNG and SVG are fine. I think this his list may be handy for you if you
 * can't afford a designer
 * don't know how to design
 * don't want to design
