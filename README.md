@@ -52,6 +52,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Light Bootstrap Dashboard](http://www.creative-tim.com/product/light-bootstrap-dashboard)**
 * **[Paper Kit](http://www.creative-tim.com/product/paper-kit)**
 * **[Get Shit Done](http://www.creative-tim.com/product/get-shit-done-kit)**
+* **[AdminLTE 2](https://almsaeedstudio.com/blog/features-of-adminlte-2.1)**
 
 ### 2.2 Others
 * **[Awesome Landing Page](http://www.creative-tim.com/product/awesome-landing-page)**
