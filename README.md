@@ -42,6 +42,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[WPZoom Developer Icon Set](http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/)**
 * **[Free Line-Style Icons](http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)**
 * **[The Noun Project](https://thenounproject.com/)** (Not a pack, rather a catalogue)
+* **[Tango Project](https://commons.wikimedia.org/wiki/Tango_icons)**
 
 ## 2. CSS Themes / Frameworks
 
