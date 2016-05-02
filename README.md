@@ -56,7 +56,9 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 ### 2.2 Others
 * **[Awesome Landing Page](http://www.creative-tim.com/product/awesome-landing-page)**
 * **[Coming Sssoon Page](http://www.creative-tim.com/product/coming-sssoon-page)**
-
+* **[Skeleton](http://getskeleton.com/)** (Framework)
+* **[Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)** (Framework)
+* **[SemanticUI](http://semantic-ui.com/)** (Framework)
 ## 3. Fonts
 
 ## 4. Images
