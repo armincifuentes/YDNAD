@@ -11,6 +11,8 @@ I've listed here a ton of free stuff I've found over time to help me avoid spend
 * don't want to design
 * don't at all.
 
+Dive right in fellow developer, and keep in mind: any additions to this list will be mostly welcome!
+
 ## Index
 1. Icons
 2. CSS Themes / Frameworks
@@ -44,6 +46,7 @@ I've listed here a ton of free stuff I've found over time to help me avoid spend
 ## 2. CSS Themes / Frameworks
 
 ### 2.1 Bootstrap based
+* **[Bootswatch](https://bootswatch.com/)** (Bootstrap themes)
 * **[Material Kit](http://www.creative-tim.com/product/material-kit)**
 * **[Paper Dashboard](http://www.creative-tim.com/product/paper-dashboard)**
 * **[Light Bootstrap Dashboard](http://www.creative-tim.com/product/light-bootstrap-dashboard)**
