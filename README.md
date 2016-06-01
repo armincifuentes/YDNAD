@@ -34,6 +34,8 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Hawkons](http://hawcons.com/preview/)**
 
 ### 1.2 Regular icons
+*I don't even know why would you, but hey, who am I to judge.*
+
 * **[Linecons](http://designmodo.com/linecons-free/)**
 * **[Steadysets](http://steadysets.com/)**
 * **[Entypo+](http://www.entypo.com/)** (SVG)
@@ -54,6 +56,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Paper Kit](http://www.creative-tim.com/product/paper-kit)**
 * **[Get Shit Done](http://www.creative-tim.com/product/get-shit-done-kit)**
 * **[AdminLTE 2](https://almsaeedstudio.com/blog/features-of-adminlte-2.1)**
+* **[Blur Admin](http://akveo.github.io/blur-admin)** (Angular Ready)
 
 ### 2.2 Others
 * **[Awesome Landing Page](http://www.creative-tim.com/product/awesome-landing-page)**
@@ -70,7 +73,8 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 ## 4. Images
 * **[Unsplash](https://unsplash.com/):** Beautiful pictures for headings, backgrounds, what have you.
 * **[Subtle Patterns](http://subtlepatterns.com/):** Tileable backgrounds that are both patterns and subtle
-
+* **[Pexels](http://pexels.com)** Stock photos
+* **[Freepik](http://www.freepik.com/)** Stock vector images
 
 ### Disclaimer
 This is not to say a designer is of no value at all. You'll still need some UX, proper branding, and then some more. But you can get started today on your MVP and have it realeased looking good with a little help from the wonderful community making all these resources available. It's a great time to build stuff up.
