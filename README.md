@@ -45,6 +45,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Free Line-Style Icons](http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)**
 * **[The Noun Project](https://thenounproject.com/)** (Not a pack, rather a catalogue)
 * **[Tango Project](https://commons.wikimedia.org/wiki/Tango_icons)**
+* **[Zondicons](http://www.zondicons.com/)** (SVG)
 
 ## 2. CSS Themes / Frameworks
 
