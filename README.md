@@ -66,9 +66,10 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)** (Framework)
 * **[SemanticUI](http://semantic-ui.com/)** (Framework)
 * **[Bulma](http://bulma.io/)** (Framework)
+* **[Materialize](http://materializecss.com/)** (Framework)
 
 ## 3. Fonts
-* **[Google Fonts](https://www.google.com/fonts)**
+* **[Google Fonts](https://fonts.google.com/)**
 * **[Font Squirrel](https://www.fontsquirrel.com/)**
 * **[Open Font Library](https://fontlibrary.org/)**
 
