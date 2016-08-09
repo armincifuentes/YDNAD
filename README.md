@@ -14,70 +14,73 @@ I've listed here a ton of free stuff I've found over time to help me avoid spend
 Dive right in fellow developer, and keep in mind: any additions to this list will be mostly welcome!
 
 ## Index
-1. Icons
-2. CSS Themes / Frameworks
-3. Fonts
-4. Images
+1. [Icons](#1-icons)
+2. [CSS Themes / Frameworks](#2-css-themes--frameworks)
+3. [Fonts](#3-fonts)
+4. [Images](#4-images)
 
 ## 1. Icons
 
 ### 1.1 Icon fonts
-* **[Icomoon](https://icomoon.io/#icons-icomoon)**
-* **[Octicons](https://octicons.github.com/)**
-* **[Typicons](http://typicons.com/)**
-* **[Material Icons](https://design.google.com/icons/)**
-* **[Font Awesome](http://fortawesome.github.io/Font-Awesome/)**
 * **[Feather](http://colebemis.com/feather/)**
+* **[Font Awesome](http://fortawesome.github.io/Font-Awesome/)**
+* **[Icomoon](https://icomoon.io/#icons-icomoon)**
 * **[Hawkons](http://hawcons.com/preview/)**
+* **[Material Icons](https://design.google.com/icons/)**
 * **[Meteocons](http://www.alessioatzeni.com/meteocons/)**
+* **[Octicons](https://octicons.github.com/)**
 * **[Open Iconic](https://useiconic.com/open/)**
-* **[Hawkons](http://hawcons.com/preview/)**
+* **[Typicons](http://typicons.com/)**
 
 ### 1.2 Regular icons
 *I don't even know why would you, but hey, who am I to judge.*
 
+* **[80 Shades of White](https://dribbble.com/shots/928458-80-Shades-of-White-Icons)**
+* **[Entypo+](http://www.entypo.com/)** (SVG)
+* **[Free Line-Style Icons](http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)**
 * **[Linecons](http://designmodo.com/linecons-free/)**
 * **[Steadysets](http://steadysets.com/)**
-* **[Entypo+](http://www.entypo.com/)** (SVG)
-* **[Steadysets](http://steadysets.com/)**
-* **[80 Shades of White](https://dribbble.com/shots/928458-80-Shades-of-White-Icons)**
-* **[WPZoom Developer Icon Set](http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/)**
-* **[Free Line-Style Icons](http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)**
-* **[The Noun Project](https://thenounproject.com/)** (Not a pack, rather a catalogue)
 * **[Tango Project](https://commons.wikimedia.org/wiki/Tango_icons)**
+* **[The Noun Project](https://thenounproject.com/)** (Not a pack, rather a catalogue)
+* **[WPZoom Developer Icon Set](http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/)**
 * **[Zondicons](http://www.zondicons.com/)** (SVG)
 
 ## 2. CSS Themes / Frameworks
 
 ### 2.1 Bootstrap based
-* **[Bootswatch](https://bootswatch.com/)** (Bootstrap themes)
-* **[Material Kit](http://www.creative-tim.com/product/material-kit)**
-* **[Paper Dashboard](http://www.creative-tim.com/product/paper-dashboard)**
-* **[Light Bootstrap Dashboard](http://www.creative-tim.com/product/light-bootstrap-dashboard)**
-* **[Paper Kit](http://www.creative-tim.com/product/paper-kit)**
-* **[Get Shit Done](http://www.creative-tim.com/product/get-shit-done-kit)**
 * **[AdminLTE 2](https://almsaeedstudio.com/blog/features-of-adminlte-2.1)**
 * **[Blur Admin](http://akveo.github.io/blur-admin)** (Angular Ready)
+* **[Bootswatch](https://bootswatch.com/)** (Bootstrap themes)
+* **[Get Shit Done](http://www.creative-tim.com/product/get-shit-done-kit)**
+* **[Light Bootstrap Dashboard](http://www.creative-tim.com/product/light-bootstrap-dashboard)**
+* **[Material Kit](http://www.creative-tim.com/product/material-kit)**
+* **[Paper Dashboard](http://www.creative-tim.com/product/paper-dashboard)**
+* **[Paper Kit](http://www.creative-tim.com/product/paper-kit)**
 
-### 2.2 Others
-* **[Awesome Landing Page](http://www.creative-tim.com/product/awesome-landing-page)** (Template)
-* **[Coming Sssoon Page](http://www.creative-tim.com/product/coming-sssoon-page)** (Template)
-* **[Skeleton](http://getskeleton.com/)** (Framework)
-* **[Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)** (Framework)
-* **[SemanticUI](http://semantic-ui.com/)** (Framework)
-* **[Bulma](http://bulma.io/)** (Framework)
-* **[Materialize](http://materializecss.com/)** (Framework)
+### 2.2 Frameworks
+* **[Bulma](http://bulma.io/)**
+* **[Foundation](http://foundation.zurb.com/)**
+* **[Materialize](http://materializecss.com/)**
+* **[PureCSS](http://purecss.io)**
+* **[Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)**
+* **[SemanticUI](http://semantic-ui.com/)**
+* **[Skeleton](http://getskeleton.com/)**
+
+### 2.3 Templates
+* **[Awesome Landing Page](http://www.creative-tim.com/product/awesome-landing-page)**
+* **[Coming Sssoon Page](http://www.creative-tim.com/product/coming-sssoon-page)**
 
 ## 3. Fonts
-* **[Google Fonts](https://fonts.google.com/)**
 * **[Font Squirrel](https://www.fontsquirrel.com/)**
+* **[Google Fonts](https://fonts.google.com/)**
 * **[Open Font Library](https://fontlibrary.org/)**
 
 ## 4. Images
-* **[Unsplash](https://unsplash.com/):** Beautiful pictures for headings, backgrounds, what have you.
-* **[Subtle Patterns](http://subtlepatterns.com/):** Tileable backgrounds that are both patterns and subtle
-* **[Pexels](http://pexels.com)** Stock photos
 * **[Freepik](http://www.freepik.com/)** Stock vector images
+* **[Pexels](http://pexels.com)** Stock photos
+* **[Subtle Patterns](http://subtlepatterns.com/):** Tileable backgrounds that are both patterns and subtle
+* **[Unsplash](https://unsplash.com/):** Beautiful pictures for headings, backgrounds, what have you.
+
 
 ### Disclaimer
 This is not to say a designer is of no value at all. You'll still need some UX, proper branding, and then some more. But you can get started today on your MVP and have it realeased looking good with a little help from the wonderful community making all these resources available. It's a great time to build stuff up.
