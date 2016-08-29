@@ -18,6 +18,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 2. [CSS Themes / Frameworks](#2-css-themes--frameworks)
 3. [Fonts](#3-fonts)
 4. [Images](#4-images)
+5. [Color Palettes)(#5-color-palettes)
 
 ## 1. Icons
 
@@ -81,6 +82,10 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Subtle Patterns](http://subtlepatterns.com/):** Tileable backgrounds that are both patterns and subtle
 * **[Unsplash](https://unsplash.com/):** Beautiful pictures for headings, backgrounds, what have you.
 
+## 5. Color Palettes
+* **[Colorion](http://www.colorion.co/)**
+* **[Colour Lovers](http://www.colourlovers.com/)**
+* **[Material @ Colorion](http://material.colorion.co/)**
 
 ### Disclaimer
 This is not to say a designer is of no value at all. You'll still need some UX, proper branding, and then some more. But you can get started today on your MVP and have it realeased looking good with a little help from the wonderful community making all these resources available. It's a great time to build stuff up.
