@@ -18,7 +18,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 2. [CSS Themes / Frameworks](#2-css-themes--frameworks)
 3. [Fonts](#3-fonts)
 4. [Images](#4-images)
-5. [Color Palettes)(#5-color-palettes)
+5. [Color Palettes](#5-color-palettes)
 
 ## 1. Icons
 
