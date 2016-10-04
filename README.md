@@ -26,8 +26,9 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Dripicons](https://github.com/amitjakhu/dripicons)**
 * **[Feather](http://colebemis.com/feather/)**
 * **[Font Awesome](http://fortawesome.github.io/Font-Awesome/)**
-* **[Icomoon](https://icomoon.io/#icons-icomoon)**
 * **[Hawkons](http://hawcons.com/preview/)**
+* **[Icomoon](https://icomoon.io/#icons-icomoon)**
+* **[Linearicons](https://linearicons.com/)**
 * **[Material Icons](https://design.google.com/icons/)**
 * **[Meteocons](http://www.alessioatzeni.com/meteocons/)**
 * **[Octicons](https://octicons.github.com/)**
