@@ -23,6 +23,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 ## 1. Icons
 
 ### 1.1 Icon fonts
+* **[Dripicons](https://github.com/amitjakhu/dripicons)**
 * **[Feather](http://colebemis.com/feather/)**
 * **[Font Awesome](http://fortawesome.github.io/Font-Awesome/)**
 * **[Icomoon](https://icomoon.io/#icons-icomoon)**
