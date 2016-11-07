@@ -88,6 +88,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 ## 5. Color Palettes
 * **[Colorion](http://www.colorion.co/)**
 * **[Colour Lovers](http://www.colourlovers.com/)**
+* **[Coolors](https://coolors.co/)**
 * **[Material @ Colorion](http://material.colorion.co/)**
 
 ### Disclaimer
