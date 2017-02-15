@@ -91,6 +91,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Coolors](https://coolors.co/)**
 * **[Material @ Colorion](http://material.colorion.co/)**
 * **[Open Color](https://yeun.github.io/open-color/)**
+* **[WebGradients](https://webgradients.com/)**
 
 ### Disclaimer
 This is not to say a designer is of no value at all. You'll still need some UX, proper branding, and then some more. But you can get started today on your MVP and have it realeased looking good with a little help from the wonderful community making all these resources available. It's a great time to build stuff up.
