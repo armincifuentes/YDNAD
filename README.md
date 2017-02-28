@@ -42,8 +42,10 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Entypo+](http://www.entypo.com/)** (SVG)
 * **[Free Line-Style Icons](http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)**
 * **[Linecons](http://designmodo.com/linecons-free/)**
+* **[NOVA](http://www.webalys.com/nova/)** (SVG)
 * **[SimpleIcons](https://simpleicons.org/)** (Popular brands in SVG)
 * **[Steadysets](http://steadysets.com/)**
+* **[Streamline Icons](http://www.streamlineicons.com/)** (SVG, PNG)
 * **[Tango Project](https://commons.wikimedia.org/wiki/Tango_icons)**
 * **[The Noun Project](https://thenounproject.com/)** (Not a pack, rather a catalogue)
 * **[WPZoom Developer Icon Set](http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/)**
