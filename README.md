@@ -76,6 +76,9 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Awesome Landing Page](http://www.creative-tim.com/product/awesome-landing-page)**
 * **[Coming Sssoon Page](http://www.creative-tim.com/product/coming-sssoon-page)**
 
+### 2.4 Animation
+* **[Animista](http://animista.net/)**
+
 ## 3. Fonts
 * **[Font Squirrel](https://www.fontsquirrel.com/)**
 * **[Google Fonts](https://fonts.google.com/)**
