@@ -51,9 +51,9 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[WPZoom Developer Icon Set](http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/)**
 * **[Zondicons](http://www.zondicons.com/)** (SVG)
 
-## 2. CSS Themes / Frameworks
+## 2. CSS Themes / Frameworks
 
-### 2.1 Bootstrap based
+### 2.1 Bootstrap based
 * **[AdminLTE 2](https://almsaeedstudio.com/blog/features-of-adminlte-2.1)**
 * **[Blur Admin](http://akveo.github.io/blur-admin)** (Angular Ready)
 * **[Bootswatch](https://bootswatch.com/)** (Bootstrap themes)
