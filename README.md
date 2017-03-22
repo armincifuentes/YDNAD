@@ -86,8 +86,9 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 
 ## 4. Images
 * **[Freepik](http://www.freepik.com/)** Stock vector images
+* **[Novapattern](http://novapattern.com/)** Curated, well-designed patterns.
 * **[Pexels](http://pexels.com)** Stock photos
-* **[Subtle Patterns](http://subtlepatterns.com/):** Tileable backgrounds that are both patterns and subtle
+* **[Subtle Patterns](http://subtlepatterns.com/):** Tileable backgrounds that are both patterns and subtle.
 * **[Unsplash](https://unsplash.com/):** Beautiful pictures for headings, backgrounds, what have you.
 
 ## 5. Color Palettes
