@@ -88,9 +88,9 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 **Bonus: System Fonts FTW:**
 
 ```css
-    body { 
-      font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif;
-    }
+body { 
+  font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif;
+}
 ```
 
 ## 4. Images
