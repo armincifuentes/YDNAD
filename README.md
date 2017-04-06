@@ -97,6 +97,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Colour Lovers](http://www.colourlovers.com/)**
 * **[Coolors](https://coolors.co/)**
 * **[Material @ Colorion](http://material.colorion.co/)**
+* **[Material Color Tool](material.io/color)**
 * **[Open Color](https://yeun.github.io/open-color/)**
 * **[WebGradients](https://webgradients.com/)**
 
