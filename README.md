@@ -71,6 +71,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[PureCSS](http://purecss.io)**
 * **[Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)**
 * **[SemanticUI](http://semantic-ui.com/)**
+* **[Shopify Polaris](http://polaris.shopify.com)**
 * **[Skeleton](http://getskeleton.com/)**
 
 ### 2.3 Templates
