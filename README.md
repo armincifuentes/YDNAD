@@ -3,7 +3,7 @@
 
 So, you wanna build the next killer social app. Got the perfect pitch, mad dev skills, but no designer to give your vision a *look and feel* up to standards.
 
-Don't worry. You don't need a designer. Just like [@shesho](http://twitter.com/shesho) [wrote about a year ago](https://uxmag.com/articles/why-web-design-is-dead), there are so many good quality design resources available today, you can easily start building right away.
+Don't worry. You don't need a designer. Just like [@shesho](http://twitter.com/shesho) [wrote a long time ago](https://uxmag.com/articles/why-web-design-is-dead), there are so many good quality design resources available today, you can easily start building right away.
 
 I've listed here a ton of free stuff I've found over time to help me avoid spending time designing. Just ready-to-use, so no AI, PSD files – PNG and SVG are fine. I think this his list may be handy for you if you
 * can't afford a designer
@@ -102,6 +102,7 @@ body {
 * **[Unsplash](https://unsplash.com/):** Beautiful pictures for headings, backgrounds, what have you.
 
 ## 5. Color Palettes
+* **[ColorClaim](http://www.vanschneider.com/colors/)**
 * **[Colorion](http://www.colorion.co/)**
 * **[Colour Lovers](http://www.colourlovers.com/)**
 * **[Coolors](https://coolors.co/)**
