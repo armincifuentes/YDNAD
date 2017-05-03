@@ -64,6 +64,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Paper Kit](http://www.creative-tim.com/product/paper-kit)**
 
 ### 2.2 Frameworks
+* **[AtlasKit](https://atlaskit.atlassian.com/)** from Atlassian
 * **[Bulma](http://bulma.io/)**
 * **[Carbon Design System](http://carbondesignsystem.com/)**
 * **[Foundation](http://foundation.zurb.com/)**
