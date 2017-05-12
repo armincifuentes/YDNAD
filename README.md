@@ -66,7 +66,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 ### 2.2 Frameworks
 * **[AtlasKit](https://atlaskit.atlassian.com/)** by Atlassian
 * **[Bulma](http://bulma.io/)**
-* **[Carbon Design System](http://carbondesignsystem.com/)**
+* **[Carbon Design System](http://carbondesignsystem.com/)** by IBM
 * **[Clarity](https://vmware.github.io/clarity/)** by VMWare
 * **[Foundation](http://foundation.zurb.com/)** by Zurb
 * **[Lightning Design System](https://www.lightningdesignsystem.com/)** by Salesforce
