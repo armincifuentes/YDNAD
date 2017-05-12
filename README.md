@@ -64,15 +64,16 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Paper Kit](http://www.creative-tim.com/product/paper-kit)**
 
 ### 2.2 Frameworks
-* **[AtlasKit](https://atlaskit.atlassian.com/)** from Atlassian
+* **[AtlasKit](https://atlaskit.atlassian.com/)** by Atlassian
 * **[Bulma](http://bulma.io/)**
 * **[Carbon Design System](http://carbondesignsystem.com/)**
-* **[Foundation](http://foundation.zurb.com/)**
+* **[Clarity](https://vmware.github.io/clarity/)** by VMWare
+* **[Foundation](http://foundation.zurb.com/)** by Zurb
+* **[Lightning Design System](https://www.lightningdesignsystem.com/)** by Salesforce
 * **[Materialize](http://materializecss.com/)**
+* **[Polaris](http://polaris.shopify.com)** by Shopify
 * **[PureCSS](http://purecss.io)**
-* **[Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)**
 * **[SemanticUI](http://semantic-ui.com/)**
-* **[Shopify Polaris](http://polaris.shopify.com)**
 * **[Skeleton](http://getskeleton.com/)**
 
 ### 2.3 Templates
