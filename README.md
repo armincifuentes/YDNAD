@@ -41,13 +41,17 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[80 Shades of White](https://dribbble.com/shots/928458-80-Shades-of-White-Icons)**
 * **[Entypo+](http://www.entypo.com/)** (SVG)
 * **[Free Line-Style Icons](http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)**
+* **[IconStore](http://iconstore.co)**
+* **[Illustrio](http://illustrio.com)**
 * **[Linecons](http://designmodo.com/linecons-free/)**
 * **[NOVA](http://www.webalys.com/nova/)** (SVG)
 * **[SimpleIcons](https://simpleicons.org/)** (Popular brands in SVG)
 * **[Steadysets](http://steadysets.com/)**
 * **[Streamline Icons](http://www.streamlineicons.com/)** (SVG, PNG)
+* **[Swifticons Freebies](https://www.swifticons.com/get-freebies)**
 * **[Tango Project](https://commons.wikimedia.org/wiki/Tango_icons)**
 * **[The Noun Project](https://thenounproject.com/)** (Not a pack, rather a catalogue)
+* **[The Stocks](http://thestocks.im/)**
 * **[WPZoom Developer Icon Set](http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/)**
 * **[Zondicons](http://www.zondicons.com/)** (SVG)
 
@@ -89,6 +93,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Font Squirrel](https://www.fontsquirrel.com/)**
 * **[Google Fonts](https://fonts.google.com/)**
 * **[Open Font Library](https://fontlibrary.org/)**
+* **[The Stocks](http://thestocks.im/)**
 
 **Bonus: System Fonts FTW:**
 
@@ -99,20 +104,30 @@ body {
 ```
 
 ## 4. Images
+* **[Burst](https://burst.shopify.com/)** Stock images from Shopify
+* **[Death To Stock](http://deathtothestockphoto.com/)**
 * **[Freepik](http://www.freepik.com/)** Stock vector images
 * **[Novapattern](http://novapattern.com/)** Curated, well-designed patterns.
 * **[Pexels](http://pexels.com)** Stock photos
+* **[Pixabay](https://pixabay.com/)** Stock photos
+* **[Skuawk](http://skuawk.com/)** Stock photos
+* **[Stock Up](https://www.sitebuilderreport.com/stock-up)** Stock photos
+* **[StockSnap](https://stocksnap.io)** Stock photos
 * **[Subtle Patterns](http://subtlepatterns.com/):** Tileable backgrounds that are both patterns and subtle.
+* **[The Stocks](http://thestocks.im/)**
 * **[Unsplash](https://unsplash.com/):** Beautiful pictures for headings, backgrounds, what have you.
 
 ## 5. Color Palettes
 * **[ColorClaim](http://www.vanschneider.com/colors/)**
+* **[Color Hunt](http://www.colorhunt.co/)**
 * **[Colorion](http://www.colorion.co/)**
 * **[Colour Lovers](http://www.colourlovers.com/)**
 * **[Coolors](https://coolors.co/)**
+* **[LOL Colors](https://www.webdesignrankings.com/resources/lolcolors)**
 * **[Material @ Colorion](http://material.colorion.co/)**
 * **[Material Color Tool](material.io/color)**
 * **[Open Color](https://yeun.github.io/open-color/)**
+* **[The Stocks](http://thestocks.im/)**
 * **[WebGradients](https://webgradients.com/)**
 
 ### Disclaimer
