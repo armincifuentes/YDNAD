@@ -118,6 +118,7 @@ body {
 * **[Unsplash](https://unsplash.com/):** Beautiful pictures for headings, backgrounds, what have you.
 
 ## 5. Color Palettes
+* **[Ambiance](http://ambiance.somethingjustlikethis.com/)**
 * **[ColorClaim](http://www.vanschneider.com/colors/)**
 * **[Color Hunt](http://www.colorhunt.co/)**
 * **[Colorion](http://www.colorion.co/)**
