@@ -62,6 +62,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[AdminLTE 2](https://almsaeedstudio.com/blog/features-of-adminlte-2.1)**
 * **[Blur Admin](http://akveo.github.io/blur-admin)** (Angular Ready)
 * **[Bootswatch](https://bootswatch.com/)** (Bootstrap themes)
+* **[Gentella](https://colorlib.com/polygon/gentelella/index.html)**
 * **[Get Shit Done](http://www.creative-tim.com/product/get-shit-done-kit)**
 * **[Light Bootstrap Dashboard](http://www.creative-tim.com/product/light-bootstrap-dashboard)**
 * **[Material Kit](http://www.creative-tim.com/product/material-kit)**
