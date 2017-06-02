@@ -24,7 +24,6 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 
 ### 1.1 Icon fonts
 * **[Dripicons](https://github.com/amitjakhu/dripicons)**
-* **[Feather](http://colebemis.com/feather/)**
 * **[Font Awesome](http://fortawesome.github.io/Font-Awesome/)**
 * **[Hawkons](http://hawcons.com/preview/)**
 * **[Icomoon](https://icomoon.io/#icons-icomoon)**
@@ -40,6 +39,8 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 
 * **[80 Shades of White](https://dribbble.com/shots/928458-80-Shades-of-White-Icons)**
 * **[Entypo+](http://www.entypo.com/)** (SVG)
+* **[Feather Icons 1.1.0](http://colebemis.com/feather/)**
+* **[Feather Icons 2.1.0](https://feathericons.com/)**
 * **[Free Line-Style Icons](http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)**
 * **[IconStore](http://iconstore.co)**
 * **[Illustrio](http://illustrio.com)**
