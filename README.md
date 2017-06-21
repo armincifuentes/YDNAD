@@ -121,6 +121,7 @@ body {
 * **[Unsplash](https://unsplash.com/):** Beautiful pictures for headings, backgrounds, what have you.
 
 ## 5. Color Palettes
+* **[Adobe Color CC](https://color.adobe.com/es/create/color-wheel/)**
 * **[Ambiance](http://ambiance.somethingjustlikethis.com/)**
 * **[ColorClaim](http://www.vanschneider.com/colors/)**
 * **[Color Hunt](http://www.colorhunt.co/)**
@@ -131,6 +132,7 @@ body {
 * **[Material @ Colorion](http://material.colorion.co/)**
 * **[Material Color Tool](material.io/color)**
 * **[Open Color](https://yeun.github.io/open-color/)**
+* **[Paletton](http://paletton.com/)**
 * **[The Stocks](http://thestocks.im/)**
 * **[WebGradients](https://webgradients.com/)**
 
