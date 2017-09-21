@@ -79,7 +79,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Material Components](https://material.io/components/web/)** by Google
 * **[Materialize](http://materializecss.com/)**
 * **[mini.css](http://minicss.org/)** by [@Chalarangelo](https://github.com/Chalarangelo)
-* **[Nachos](https://design.trello.com/) by Trello
+* **[Nachos](https://design.trello.com/)** by Trello
 * **[Polaris](http://polaris.shopify.com)** by Shopify
 * **[PureCSS](http://purecss.io)**
 * **[SemanticUI](http://semantic-ui.com/)**
