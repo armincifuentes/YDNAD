@@ -78,6 +78,8 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Lightning Design System](https://www.lightningdesignsystem.com/)** by Salesforce
 * **[Material Components](https://material.io/components/web/)** by Google
 * **[Materialize](http://materializecss.com/)**
+* **[Nebular](https://github.com/akveo/nebular)**
+* **[ngx-admin](https://github.com/akveo/ngx-admin)**
 * **[mini.css](http://minicss.org/)** by [@Chalarangelo](https://github.com/Chalarangelo)
 * **[Polaris](http://polaris.shopify.com)** by Shopify
 * **[PureCSS](http://purecss.io)**
