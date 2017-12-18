@@ -68,6 +68,7 @@ Dive right in fellow developer, and keep in mind: any additions to this list wil
 * **[Material Kit](http://www.creative-tim.com/product/material-kit)**
 * **[Paper Dashboard](http://www.creative-tim.com/product/paper-dashboard)**
 * **[Paper Kit](http://www.creative-tim.com/product/paper-kit)**
+* **[Shards](https://designrevision.com/demo/shards/)**
 
 ### 2.2 Frameworks
 * **[AtlasKit](https://atlaskit.atlassian.com/)** by Atlassian
